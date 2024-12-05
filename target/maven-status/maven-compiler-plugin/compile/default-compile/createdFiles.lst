@@ -1,1 +1,4 @@
 junit\monprojet\Main.class
+junit\monprojet\UniteDistincteException.class
+junit\monprojet\SommeArgent.class
+junit\monprojet\PorteMonnaie.class
